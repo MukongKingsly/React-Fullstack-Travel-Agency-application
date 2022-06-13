@@ -1,7 +1,7 @@
 # React-Fullstack-Bus-Travel-Agency-application
 A responsive full stack application made with Reactjs and CSS with minimal dependencies<br/><br/>
 ### An admin dashboard to post journeys
-![dashboard](https://user-images.githubusercontent.com/37277895/173259397-832043d5-3159-4267-aa1c-a9e4dcf94c1b.gif)
+![dashboard](https://user-images.githubusercontent.com/37277895/173259478-7bd1b33c-4a8f-4510-9b8f-aa1c86e9d654.gif)
 
 
 ### A website for users to get more information about each travel agency
