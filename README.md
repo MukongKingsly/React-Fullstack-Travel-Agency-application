@@ -3,6 +3,4 @@ A responsive full stack application made with Reactjs and CSS with minimal depen
 ### An admin dashboard to post journeys
 ![dashboard](https://user-images.githubusercontent.com/37277895/173259478-7bd1b33c-4a8f-4510-9b8f-aa1c86e9d654.gif)
 
-
-### A website for users to get more information about each travel agency
 ### A mobile app for user to book bus tickets
