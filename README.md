@@ -1,6 +1,6 @@
 # React Fullstack-Bus Company Application
 
-#### An admin dashboard to post, edit and update trips. The bus company also sees seats booked through the mobile app
+#### An admin dashboard to post, edit and update trips. The bus company also sees seats booked through the mobile app. The source code is private in my Github
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/37277895/175751738-da030dd1-c72c-4596-96be-7ac8eda71e57.gif)
 
 
